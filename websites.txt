@@ -15,8 +15,33 @@
     "category": "Anime"
   },
   {
-    "url": "https://dizipal953.com/",
-    "title": "Dizipal 953",
+    "url": "https://www.hdfilmcehennemi.nl/",
+    "title": "HD Film Cehennemi",
+    "category": "Film"
+  },
+  {
+    "url": "https://sezonlukdizi6.com/",
+    "title": "Sezonluk Dizi",
+    "category": "Dizi"
+  },
+  {
+    "url": "https://www.dizimom.biz/",
+    "title": "DiziMom",
+    "category": "Dizi"
+  },
+  {
+    "url": "https://dizikral.club/",
+    "title": "DiziKral",
+    "category": "Dizi"
+  },
+  {
+    "url": "https://www.dizibox.so/",
+    "title": "DiziBox",
     "category": "Dizi & Film"
+  },
+  {
+    "url": "https://www.ddizi.im/",
+    "title": "Ddizi",
+    "category": "Dizi"
   }
 ]
